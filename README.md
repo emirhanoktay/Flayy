@@ -35,10 +35,14 @@ Customers earn stars on every visit, and businesses keep their customers coming 
 
 <div align="center">
 
-<img src="SS_1" width="24%" />
-<img src="SS_2" width="24%" />
-<img src="SS_3" width="24%" />
-<img src="SS_4" width="24%" />
+
+<img src="https://github.com/user-attachments/assets/4bb9256f-fbb7-4ca6-9e36-60c58d2ff05f" width="24%" />
+<img src="https://github.com/user-attachments/assets/938b24d0-5e9a-4440-8bab-478dd9a6d4aa" width="24%" />
+<img src="https://github.com/user-attachments/assets/2c643e39-c1b9-401c-9e08-2fc4cf82fdbe" width="24%" />
+<img src="https://github.com/user-attachments/assets/62effb35-3b99-4698-9541-b61ed9e3617c" width="24%" />
+<img src="https://github.com/user-attachments/assets/b5723f94-6d1e-46ba-8a76-1a919cf54d70" width="24%" />
+<img src="https://github.com/user-attachments/assets/b261d0d0-15c8-4ad6-8f67-ea3bcaa38abc" width="24%" />
+
 
 </div>
 
